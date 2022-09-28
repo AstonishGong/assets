@@ -1,0 +1,14 @@
+{
+    "name": "OKSE Token",
+    "type": "AVALANCHE",
+    "symbol": "OKSE",
+    "decimals": 18,
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://ethereum.org/en/",
+    "explorer": "https://snowtrace.io/address/0xbc7B0223Dd16cbc679c0D04bA3F4530D76DFbA87",
+    "status": "active",
+    "id": "0xbc7B0223Dd16cbc679c0D04bA3F4530D76DFbA87",
+    "tags": [
+        "wrapped"
+    ]
+}
